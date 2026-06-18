@@ -1,0 +1,5 @@
+# Wazuh-generated certs/keys — regenerate locally, never commit
+wazuh-docker/single-node/config/wazuh_indexer_ssl_certs/
+
+# Large binary installer — link it in README instead
+wazuh-docker/single-node/wazuh-agent_4.12.0-1_amd64.deb
